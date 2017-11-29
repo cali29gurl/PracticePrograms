@@ -7,7 +7,7 @@ public class StarForLoop {
 			// Print out Star loop
 
 			System.out.print("\n");
-			
+			//loop
 			for (int y = 1; y <= i; y++) {
 				System.out.print("*");
 
