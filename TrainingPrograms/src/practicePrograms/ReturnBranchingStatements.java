@@ -1,7 +1,7 @@
 package practicePrograms;
 
-//public class ReturnBranchingStatements {
-	class Return {
+public class ReturnBranchingStatements {
+	
 	public static void main(String[] args) {
 		//class Return {
 			//public static void main(String args[]){
